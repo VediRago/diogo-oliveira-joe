@@ -5,7 +5,7 @@
 # Observation #001
 ### No Rules
 
-![Observation #001 — No Rules](../assets/observations-001.jpg)
+![Observation #001 — No Rules](../assets/obvservations-001.jpg)
 
 ---
 
