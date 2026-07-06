@@ -4,71 +4,45 @@ Most of my writing is built on constraints. Acts. Scene Blueprints. Information 
 
 Then there's Joe.
 
-Joe exists outside all of it. While I'm designing systems that decide what information belongs where, Joe doesn't care about architecture.
-
-He has exactly one rule.
-
-**Avoid ceilings.**
-
-## Excerpt
-
-Rules weren't for Joe. Joe didn't need rules—because he lived without rules. And when he did need one, he made it himself.
-
-And that was enough.
-
-For no-rule Joe, nothing was impossible.
-
-Not even impossible grass.
-
-*"Get off the toilet?"* he muttered once, somewhere, sometime. *"Who do you think I am?"*
-
-Rules didn't force Joe to stand there with helicopter arms—twisting, turning something.
-
-He just flew.
-
-Took off.
-
-Not too high, though.
-
-He wasn't stupid.
-
-There was one rule.
-
-Just one.
-
-**Avoid ceilings.**
-
-That was it.
-
-Without ceilings—Joe was unstoppable.
-
-![No-rule Joe excerpt](./assets/no-rule-joe-excerpt.jpg)
+Joe exists outside all of it. While I'm designing systems that decide what information belongs where, Joe doesn't care about architecture. He has exactly one rule.
 
 Ironically, Joe makes the rest of my writing better. He's the one place where ideas don't have to justify themselves before they exist.
 
 Sometimes the best thing you can create is the thing that refuses to fit your own system.
 
-## Contents
+---
 
-### Arc One: The Neighbor
+## Character Sheet
 
-A first-person series narrated by Joe, watching a neighbor across the street who has no idea she's being narrated at all.
+![Joe — Character Dossier](./assets/joe-dossier.jpg)
 
-- [Entry One](./Arc1_Entry1.md)
-- [Entry Two](./Arc1_Entry2.md)
+| | |
+|---|---|
+| **Age** | 34 (or 120. No one knows.) |
+| **Occupation** | None. Above that. |
+| **Philosophy** | No rules. Except one. |
+| **Rule** | Avoid ceilings. |
+| **Emotional State** | High. Conceptive notion of alternative emotional states. |
+| **Weakness** | Blue panties (when sad. He isn't.) |
+| **Daily Routine** | Go to the lamp that will never turn on. Stare. Leave. Return. (At least 2 times. Maybe 4. He's that guy.) |
 
-### Standalone Pieces
+"Sadness doesn't apply to Joe. He just wears blue."
 
-- **That's Joe** — coming soon
-- **Impossible Grass** — coming soon
-- **Unsolicited Boarding Visit** — coming soon
+---
+
+## Joe's Observations
+
+A running series — Joe narrating things he sees, badly, from wherever he happens to be standing.
+
+- [#001 — No Rules](./Joe_Observations_001.md)
+- [#002 — Her Eyes Came Into Focus](./Joe_Observations_002.md)
+
+---
 
 ## The Rule
 
-Joe's prose breaks—typos, run-on sentences, and thoughts that lose their own thread—specifically when he's high and trying to explain something. Description stays intact. Explanation is where the glitch lives.
+Joe's prose breaks — typos, run-ons, sentences that lose their own thread — specifically when he's high **and** attempting to explain something. Description stays intact. Explanation is where the glitch lives. It's not a mistake. It's the tell.
 
-It's not a mistake.
-
-It's the tell.
+---
 
 © Diogo Oliveira — June 2026
