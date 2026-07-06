@@ -5,6 +5,8 @@
 # Memoir #002
 ### The Neighbor, Continued
 
+![Memoir #002 — The Neighbor, Continued](../assets/memoir-002.jpg)
+
 I'm back, and guess what?
 
 She's still there.
