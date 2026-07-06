@@ -16,26 +16,23 @@ Sometimes the best thing you can create is the thing that refuses to fit your ow
 
 ![Joe — Character Dossier](./assets/joe-dossier.jpg)
 
-| | |
-|---|---|
-| **Age** | 34 (or 120. No one knows.) |
-| **Occupation** | None. Above that. |
-| **Philosophy** | No rules. Except one. |
-| **Rule** | Avoid ceilings. |
-| **Emotional State** | High. Conceptive notion of alternative emotional states. |
-| **Weakness** | Blue panties (when sad. He isn't.) |
-| **Daily Routine** | Go to the lamp that will never turn on. Stare. Leave. Return. (At least 2 times. Maybe 4. He's that guy.) |
-
-"Sadness doesn't apply to Joe. He just wears blue."
-
 ---
 
-## Joe's Observations
+## Contents
 
-A running series — Joe narrating things he sees, badly, from wherever he happens to be standing.
+Two branches, two different questions. Nothing overlaps.
 
-- [#001 — No Rules](./Joe_Observations_001.md)
-- [#002 — Her Eyes Came Into Focus](./Joe_Observations_002.md)
+### Observations — *What did Joe see?*
+Illustrated pieces. Joe narrating things he sees, badly, from wherever he happens to be standing.
+
+- [#001 — No Rules](./Observations/001_No_Rules.md)
+- [#002 — Her Eyes Came Into Focus](./Observations/002_Her_Eyes_Came_Into_Focus.md)
+
+### Memoir — *What was Joe thinking?*
+First-person, text only. Joe narrating the same neighbor across separate entries — leaving, returning, never finishing a thought.
+
+- [#001 — The Neighbor](./Memoir/001_The_Neighbor.md)
+- [#002 — The Neighbor, Continued](./Memoir/002_The_Neighbor_Continued.md)
 
 ---
 
