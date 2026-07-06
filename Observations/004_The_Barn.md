@@ -5,7 +5,7 @@
 # Observation #004
 ### The Barn
 
-![Observation #004 — The Barn](../assets/observations-004.jpg)
+![Observation #004 — The Barn](../assets/obvservations-004.jpg)
 
 ---
 
