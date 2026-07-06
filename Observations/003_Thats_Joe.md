@@ -5,7 +5,7 @@
 # Observation #003
 ### That's Joe
 
-![Observation #003 — That's Joe](../assets/observations-003.jpg)
+![Observation #003 — That's Joe](../assets/obvservations-003.jpg)
 
 ---
 
