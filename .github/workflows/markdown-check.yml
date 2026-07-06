@@ -1,0 +1,57 @@
+name: Markdown Checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  integrity:
+    name: Markdown integrity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check local Markdown links
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re, sys
+          from urllib.parse import unquote
+
+          root = Path.cwd()
+          md_link = re.compile(r'!?\[[^\]]*\]\(([^)]+)\)')
+          fence = re.compile(r'```.*?```', re.S)
+          ignored = {'.git', '.github', 'node_modules', 'venv', '.venv'}
+
+          def line_no(text, idx): return text.count('\n', 0, idx) + 1
+          def external(t): return bool(re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', t)) or t.startswith('#')
+
+          issues = []
+          files = sorted(p for p in root.rglob('*.md') if not any(part in ignored for part in p.parts))
+          for path in files:
+              text = path.read_text(encoding='utf-8')
+              searchable = fence.sub(lambda m: '\n' * m.group(0).count('\n'), text)
+              for match in md_link.finditer(searchable):
+                  raw = match.group(1).strip()
+                  if not raw or external(raw):
+                      continue
+                  target = unquote(raw.split('#', 1)[0].split('?', 1)[0])
+                  if not target:
+                      continue
+                  resolved = (path.parent / target).resolve()
+                  try:
+                      resolved.relative_to(root)
+                  except ValueError:
+                      issues.append((path, line_no(searchable, match.start()), f'link escapes repository: {raw}'))
+                      continue
+                  if not resolved.exists():
+                      issues.append((path, line_no(searchable, match.start()), f'broken link: {raw}'))
+
+          if issues:
+              for path, line, message in issues:
+                  print(f'{path.relative_to(root)}:{line}: {message}')
+              sys.exit(1)
+          print(f'✅ Checked {len(files)} Markdown files. No broken local links found.')
+          PY
