@@ -5,7 +5,7 @@
 # Observation #002
 ### Her Eyes Came Into Focus
 
-![Observation #002 — Her Eyes Came Into Focus](../assets/observations-002.jpg)
+![Observation #002 — Her Eyes Came Into Focus](../assets/obvservations-002.jpg)
 
 ---
 
