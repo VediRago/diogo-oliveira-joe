@@ -27,6 +27,8 @@ Illustrated pieces. Joe narrating things he sees, badly, from wherever he happen
 
 - [#001 — No Rules](./Observations/001_No_Rules.md)
 - [#002 — Her Eyes Came Into Focus](./Observations/002_Her_Eyes_Came_Into_Focus.md)
+- [#003 — That's Joe](./Observations/003_Thats_Joe.md)
+- [#004 — The Barn](./Observations/004_The_Barn.md)
 
 ### Memoir — *What was Joe thinking?*
 First-person, text only. Joe narrating the same neighbor across separate entries — leaving, returning, never finishing a thought.
