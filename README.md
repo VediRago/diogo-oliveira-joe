@@ -18,10 +18,6 @@ Sometimes the best thing you can create is the thing that refuses to fit your ow
 
 ---
 
-## Contents
-
-Two branches, two different questions. Nothing overlaps.
-
 ### Observations — *What did Joe see?*
 Illustrated pieces. Joe narrating things he sees, badly, from wherever he happens to be standing.
 
