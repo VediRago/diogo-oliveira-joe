@@ -5,6 +5,8 @@
 # Arc One: The Neighbor
 ### Entry Two
 
+![Memoir #002 — The Neighbor, Continued](./assets/memoir-002.jpg)
+
 I'm back, and guess what?
 
 She's still there.
@@ -32,8 +34,6 @@ I don't even fold them. That's why I sometimes use only one because I can't find
 Fuck.
 
 Gotta go.
-
-![Entry Two](./assets/arc1-entry2.jpg)
 
 ---
 
